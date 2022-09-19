@@ -1,6 +1,8 @@
 # DT-bar Experiments
 
-This repository contains the code used to generate the results presented in the paper "Improving the Feature Selection Stability of the Delta Test in Regression" (2022) by Rebecca Marion and Benoît Frénay. 
+This repository contains the code used to generate the results presented in the paper "Improving the Feature Selection Stability of the Delta Test in Regression" (2022) by Rebecca Marion and Benoît Frénay. This paper presents a new feature selection criterion, delta test bar (DT-bar), that achieves better feature selection stability than related methods, while resulting in regression models with equivalent or better prediction performance. 
+
+Numerical experiments were performed to compare the stability and prediction performance of DT-bar to several existing criteria: the delta test, the gamma test, the product estimator and a bootstrapped version of the delta test. 
 
 ## Requirements
 
